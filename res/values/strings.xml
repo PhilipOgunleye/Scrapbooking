@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scrapbooking</string>
+    <string name="action_settings">Settings</string>
+    <string name="famous">Famous Landmarks</string>
+    <string name="thewall">Great Wall of China</string>
+    <string name="thepyramid">Pyramid at Gaza</string>
+    <string name="thecolosseum">The Colosseum Italy</string>
+    <string name="thestonehenge">Stonehenge Wiltshire England</string>
+    <string name="wall_china">Image great wall of China</string>
+    <string name="pyramid_gaza">Image pyramid at Gaza</string>
+    <string name="stonehenge_wiltsire">Image stonehenge Wiltshire England</string>
+    <string name="colosseum_italy">"Image of the Colosseum in Italy "</string>
+
+</resources>

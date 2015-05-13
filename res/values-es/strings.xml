@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scrapbooking</string>
+    <string name="action_settings">Settings</string>
+    <string name="famous">Monumentos históricos famosos</string>
+    <string name="thewall">La Gran Muralla China</string>
+    <string name="thepyramid">Pirámide en Gaza</string>
+    <string name="thecolosseum">El Coliseo Italia</string>
+    <string name="thestonehenge">Stonehenge Wiltshire Inglaterra</string>
+    <string name="wall_china">Imagen gran muralla de China</string>
+    <string name="pyramid_gaza">Pirámide de imagen en Gaza</string>
+    <string name="stonehenge_wiltsire">Stonehenge Imagen Wiltshire Inglaterra</string>
+    <string name="colosseum_italy">Imagen del Coliseo en Italia</string>
+
+</resources>
